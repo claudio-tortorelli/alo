@@ -57,7 +57,11 @@ extracting dependencies C:\dev\GitHub\Alò\dist\lib.zip
         1 directory spostata/e.
 removing temporary folder
 2025-11-23 21:08:20 - [INFO] -------------------------------------
+<<<<<<< Updated upstream
 2025-11-23 21:08:20 - [INFO]   TestJar DEBUG VERSION
+=======
+2025-11-23 21:08:20 - [INFO]   TestJar DEBUG VERSION   
+>>>>>>> Stashed changes
 2025-11-23 21:08:20 - [INFO] -------------------------------------
 2025-11-23 21:08:20 - [INFO] - operating system name: Windows 11
 2025-11-23 21:08:20 - [INFO] - operating system arch: amd64
